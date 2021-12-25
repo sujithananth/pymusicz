@@ -1,5 +1,6 @@
 # pymusicz
 
+### this page is a mirror of original project at gitlab[https://gitlab.com/univrz/pymusicz](https://gitlab.com/univrz/pymusicz) 
 basic music player made with  python's pysimpleGUI,mixer module of pygame and tinytag.it is a college student project.
 
 Before getting started we need certain python modules:
